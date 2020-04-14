@@ -1,5 +1,5 @@
 # Multithreading_in_C-Producer-Consumer-
-Generating random numbers by producer threadand storing in Queue, Consumer Threads takes numbers from Queue and find the divisors of the number. 
+Generating random numbers by producer threads and storing in Queue, Consumer Threads take numbers from Queue and find the divisors of the number. 
 
 In this project, a multithreading example is implemented and tested on Linux ubuntu 18.04. As the development software "C" is used.
 
