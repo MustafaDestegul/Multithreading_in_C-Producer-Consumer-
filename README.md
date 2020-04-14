@@ -17,6 +17,7 @@ The program should use four optional arguments to change parameters:
 Example Linux commands to compile and run the software.
 
 Compile   : gcc EE442_HW1.c -o EE442_HW1 -pthread
+
 Run       : ./EE442_HW1 -t 4 -q 3 -r 15 -m 1000
 
 
