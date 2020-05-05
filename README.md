@@ -21,4 +21,3 @@ Compile   : gcc EE442_HW1.c -o EE442_HW1 -pthread
 Run       : ./EE442_HW1 -t 4 -q 3 -r 15 -m 1000
 
 
-Unfortunatelly, the codes will be uploaded after May. , which is the due date of the hw :)
